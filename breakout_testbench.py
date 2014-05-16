@@ -89,4 +89,5 @@ swith(io)
 #test bench tone
 tone(io, song)
 #test bench clock
+io.delay(2000)
 clock(io, 5000)
