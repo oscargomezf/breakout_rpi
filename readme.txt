@@ -1,4 +1,4 @@
-This project is made for build a own breakout hardware to use with Raspberry Pi:
+This project is made for build your own breakout hardware to use with Raspberry Pi:
 
 - hw directory: schematics for build the pcb.
 - test benches for check breakout hardware.
